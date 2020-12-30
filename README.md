@@ -4,11 +4,10 @@
 </h1>
 
 <p align="center">Tinder but for devs - Mobile app</p>
-
-## Demo
-
 <p align="center">
-    <img height="425" src="https://i.ibb.co/68gPjZd/tindev-demo.gif" alt="tindev-demo" border="0">
+    <a href="https://i.ibb.co/0KhMHXw/tindev-demo.gif">
+        <img src="https://i.ibb.co/0KhMHXw/tindev-demo.gif" alt="tindev-demo" height="600" border="0">
+    </a>
 </p>
 
 ## Technologies
